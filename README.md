@@ -1,15 +1,17 @@
 # ISeePass
-http://www.tecdrop.com/iseepass/
 
-Passwords in web browsers are hidden behind asterisks. This is for your protection, but what if you need to see what you are typing, or trying to recover or copy a saved password from behind the asterisks? Use ISeePass. It's a tiny bookmarklet that instantly reveals all password on a web page. ISeePass works in web browsers across PCs, tablets and smartphones, running Android, iOS, Linux, Mac OS, Windows, and more.
+ISeePass is a bookmarklet that reveals hidden passwords on web pages. It helps you verify password accuracy, recover forgotten passwords, and copy passwords. The bookmarklet is compatible with all major browsers and operating systems and doesn't require installation. Simply drag it to your browser's bookmarks bar and click it to reveal passwords. ISeePass allows you to toggle between showing and hiding passwords on demand. By using ISeePass, you can save time and frustration when dealing with hidden passwords.
+
+**By providing the free ISeePass bookmarklet, [East-Tec](https://www.east-tec.com/) aims to emphasize the vulnerability of passwords stored in browsers. This underscores the importance of prioritizing password security by employing encryption and [securely deleting](https://www.east-tec.com/eraser/) personal information.**
+
+| ISeePass revealing a password on macOS | 
+| :---: |
+| ![ISeePass in Chrome on macOS](repo/assets/iseepass-screenshot-macos-chrome.webp) |
+
 
 ## Contributions
 
 All contributions are welcome: code, documentation, graphics, design suggestions, and more. Please fork this repository and contribute back using [pull requests](https://github.com/tecdrop/iseepass/pulls). For feature requests and bug reports please [submit an issue](https://github.com/tecdrop/iseepass/issues).
-
-## Author
-
-ISeePass was created in 2014 by [Horațiu Tănescu](https://horatiu.me), cofounder of [East-Tec](https://www.east-tec.com) and original creator of [east-tec Eraser](https://www.east-tec.com/eraser/), the privacy solution that quickly and securely covers your online and PC tracks.
 
 ## License
 
