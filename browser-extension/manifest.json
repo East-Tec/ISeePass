@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "ISeePass",
+  "version": "1.0",
+  "description": "Instantly reveal passwords hidden behind asterisks on web pages.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "images/icon-on-16.png",
+      "32": "images/icon-on-32.png",
+      "48": "images/icon-on-48.png",
+      "128": "images/icon-on-128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon-off-16.png",
+    "32": "images/icon-off-32.png",
+    "48": "images/icon-off-48.png",
+    "128": "images/icon-off-128.png"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}
